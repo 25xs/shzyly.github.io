@@ -1,0 +1,19 @@
+body{background-image:url(纹理背景.png);margin:0 auto;width:1300px;}
+ul{list-style-type:none;margin:0;padding:0;overflow:hidden;background-color:black;text-align:center;display:block;}
+li{float:left;}
+li a{display:block;color:white;text-align:center;padding:14px 30px;text-decoration:none;}
+li a:hover{background-color:grey;}
+li s{display:block;color:white;text-align:center;padding:14px 30px;}
+a{text-decoration:none;color:yellow;}
+h1{color:white;text-align:center;}
+h2{color:white;text-indent:2em}
+h3{color:white;text-indent:2em}
+table{margin:0 auto;}
+p{text-indent:2em;color:red;font-size:16px;}
+#p2{margin-left:2em;text-indent:2em;}
+#p3{margin-left:4em;text-indent:2em;}
+#pc{text-indent:0em;color:white;text-align:center;}
+#pl{margin-left:2em;text-indent:2em;text-align:left;}
+#pt{margin-left:2em;text-indent:0em;}
+#pt2{margin-left:4em;text-indent:0em;}
+#div1{margin:0 auto;width:1300px;background-color:rgba(0,0,0,0);}
