@@ -9,6 +9,7 @@ h1{color:white;text-align:center;}
 h2{color:white;text-indent:2em}
 h3{color:white;text-indent:2em}
 table{margin:0 auto;}
+table p{text-indent:0em;color:white;font-size:16px;}
 p{text-indent:2em;color:red;font-size:16px;}
 #p2{margin-left:2em;text-indent:2em;}
 #p3{margin-left:4em;text-indent:2em;}
